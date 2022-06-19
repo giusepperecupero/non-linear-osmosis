@@ -6,7 +6,7 @@
 
 **Version 1.0**
 
-**Date**: ??/04/22
+**Date**: 19/06/22
 
 This software implements the algorithms described in the paper [Fast and stable schemes for non-linear osmosis filtering](FILL), also available on [arXiv](https://arxiv.org/abs/2203.15570). Please cite as:
 
