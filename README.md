@@ -17,6 +17,7 @@ FILL
 Given an image with a shadow/light-spot (left) and its relative boundary (middle), the result is an image where the shadow/spot-light has been removed.
 
 
+![44_2_edge-4_p1_gSI_tau1000_T10000_eps1e-07](https://user-images.githubusercontent.com/103272764/174473942-bb857c80-d680-4834-b2f4-4d728970b7a6.png)
 
 
 
