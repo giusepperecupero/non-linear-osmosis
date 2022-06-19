@@ -8,9 +8,7 @@
 
 **Date**: 19/06/22
 
-This software implements the algorithms described in the paper [Fast and stable schemes for non-linear osmosis filtering](FILL), also available on [arXiv](https://arxiv.org/abs/2203.15570). Please cite as:
-
-FILL
+This software implements the algorithms described in the paper [Fast and stable schemes for non-linear osmosis filtering](FILL), also available on [arXiv](https://arxiv.org/abs/2203.15570).
 
 ## Task 1: shadow removal
 
@@ -36,7 +34,7 @@ The provided algorithm implements also the linear osmosis described in [A Fully 
 
 The code related to the comparison model [Anisotropic osmosis filtering for shadow removal in images](https://iopscience.iop.org/article/10.1088/1361-6420/ab08d2/meta) is available at [GitHub](https://github.com/simoneparisotto/anisotropic-osmosis-filter).
 
-## License
+## License (CHECK)
 [FILL](https://choosealicense.com/licenses/mit/)
 
 [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause)
