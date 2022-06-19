@@ -20,9 +20,9 @@ Given an image with a shadow/light-spot (left) and its relative boundary (middle
 ![17](https://user-images.githubusercontent.com/103272764/174474021-c24a49cb-a89a-40ad-91e8-469b10c91e29.png)
 ![17_soft_edge4_p1 99_gSI_tau1000_T10000_eps1e-07](https://user-images.githubusercontent.com/103272764/174474010-32a4a1c7-604f-429e-9c81-ea864e92cccd.png)
 
-![desk3_8](https://user-images.githubusercontent.com/103272764/174474053-9b472e8f-b83a-4ae5-a074-b8e57c9dfe3f.png)
-![desk3](https://user-images.githubusercontent.com/103272764/174474058-1e9a7047-dc22-4065-ae97-fd1727092fa5.png)
-![desk3_8_edge5_p1_gSI_tau1000_T10000_eps1e-07](https://user-images.githubusercontent.com/103272764/174474046-31b72fcd-b3bd-4e09-8f3f-ecfd7f135584.png)
+![desk3_8](https://user-images.githubusercontent.com/103272764/174474053-9b472e8f-b83a-4ae5-a074-b8e57c9dfe3f.png | width=10)
+![desk3](https://user-images.githubusercontent.com/103272764/174474058-1e9a7047-dc22-4065-ae97-fd1727092fa5.png | width = 50)
+![desk3_8_edge5_p1_gSI_tau1000_T10000_eps1e-07](https://user-images.githubusercontent.com/103272764/174474046-31b72fcd-b3bd-4e09-8f3f-ecfd7f135584.png | width=100)
 
 ## Task 2: compact data representation
 
