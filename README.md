@@ -16,26 +16,25 @@ FILL
 
 Given an image with a shadow/light-spot (left) and its relative boundary (middle), the result (right) is an image where the shadow/spot-light has been removed.
 
+![17_soft](https://user-images.githubusercontent.com/103272764/174474017-d12c5095-c2a1-4f40-86a6-7650ff793633.png)
+![17](https://user-images.githubusercontent.com/103272764/174474021-c24a49cb-a89a-40ad-91e8-469b10c91e29.png)
+![17_soft_edge4_p1 99_gSI_tau1000_T10000_eps1e-07](https://user-images.githubusercontent.com/103272764/174474010-32a4a1c7-604f-429e-9c81-ea864e92cccd.png)
 
-![16_soft](https://user-images.githubusercontent.com/103272764/174473968-3c88e96d-b5bb-4fb9-a483-996f82a7b4e1.png)
-![16](https://user-images.githubusercontent.com/103272764/174473977-8a9cf7f0-8cd2-407c-99b7-1c912c90bbe3.png)
-![16_soft_edge2_p1 99_gSI_tau1000_T100000_eps1e-07](https://user-images.githubusercontent.com/103272764/174473959-0f7525e6-7345-4666-8193-fa7c8daa8787.png)
-
+![desk3_8](https://user-images.githubusercontent.com/103272764/174474053-9b472e8f-b83a-4ae5-a074-b8e57c9dfe3f.png)
+![desk3](https://user-images.githubusercontent.com/103272764/174474058-1e9a7047-dc22-4065-ae97-fd1727092fa5.png)
+![desk3_8_edge5_p1_gSI_tau1000_T10000_eps1e-07](https://user-images.githubusercontent.com/103272764/174474046-31b72fcd-b3bd-4e09-8f3f-ecfd7f135584.png)
 
 ## Task 2: compact data representation
 
 Given an image (left), the algorithm computes the mask of its edges (middle). Then, using only the information of the drift term stored on the mask, it reconstruct an approximation of the original image (right).
 
+![lisa2](https://user-images.githubusercontent.com/103272764/174474256-c7b2838e-8b4a-4a56-a88c-8f868ce467d8.png)
+![lisa2edge3](https://user-images.githubusercontent.com/103272764/174474250-cbb7dc99-2b3f-4b19-b673-7c4b4f38357e.png)
+![lisa2_g3_tau1000T74000eps1](https://user-images.githubusercontent.com/103272764/174474237-1f0ba043-6da8-426c-94bf-18005148542b.png)
 
-
-```bash
-pip install foobar
-```
-
-```python
-# returns 'words'
-foobar.pluralize('word')
-```
+![fry2000](https://user-images.githubusercontent.com/103272764/174474331-2c6834e4-853f-4e0a-9fac-074603a28540.png)
+![fry2000 edge0 008_1](https://user-images.githubusercontent.com/103272764/174474322-3dbca8be-50ae-4bbd-ad15-338cf241fd07.png)
+![fry2000 _g1_tau10T140eps0 0001](https://user-images.githubusercontent.com/103272764/174474307-528d9851-882a-4ab4-9b9a-8300d0d0b8a0.png)
 
 ## Related code
 
