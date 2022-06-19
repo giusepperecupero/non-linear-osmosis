@@ -14,11 +14,12 @@ FILL
 
 ## Task 1: shadow removal
 
-Given an image with a shadow/light-spot (left) and its relative boundary (middle), the result is an image where the shadow/spot-light has been removed.
+Given an image with a shadow/light-spot (left) and its relative boundary (middle), the result (right) is an image where the shadow/spot-light has been removed.
 
 
-![44_2_edge-4_p1_gSI_tau1000_T10000_eps1e-07](https://user-images.githubusercontent.com/103272764/174473942-bb857c80-d680-4834-b2f4-4d728970b7a6.png)
-
+![16_soft](https://user-images.githubusercontent.com/103272764/174473968-3c88e96d-b5bb-4fb9-a483-996f82a7b4e1.png)
+![16](https://user-images.githubusercontent.com/103272764/174473977-8a9cf7f0-8cd2-407c-99b7-1c912c90bbe3.png)
+![16_soft_edge2_p1 99_gSI_tau1000_T100000_eps1e-07](https://user-images.githubusercontent.com/103272764/174473959-0f7525e6-7345-4666-8193-fa7c8daa8787.png)
 
 
 ## Task 2: compact data representation
